@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border: 2px dashed gold;
+    border-radius: 10px;
+    padding: 0.12em 0.5em;
+}
+h1{
+    color: darkolivegreen;
+    border-bottom: greenyellow 3px solid;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+span{
+    color: BLUE;
+}
+li{
+    color: green;
+}
